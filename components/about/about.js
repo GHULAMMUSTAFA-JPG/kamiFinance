@@ -10,7 +10,7 @@ const About = (props) => {
                 <div className="sec-title mb-55">
                     <h2 className="mb-30 wow skewIn">Dependable and Trustworthy Visa & <br/>
                         <span>Immigration Guidance</span></h2>
-                    <p>Our team of seasoned professionals understands the <br/> complexities of immigration laws and visa
+                    <p>Our team of seasoned professionals understand the <br/> complexities of immigration laws and visa
                         procedures.</p>
                 </div>
                 <div className="row align-items-center">
