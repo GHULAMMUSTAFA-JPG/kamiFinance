@@ -24,14 +24,14 @@ const HomePage = () => {
         <PartnerSection />
         <ServiceSection />
         <About />
-        {/*     <FunFactSection />
-                <CountrySection />
-                <TeamSection />
-                <Testimonial />
-                <FaqSection />
-                <BlogSection />
-                <NewsLatter />
-                <ContactSection /> */}
+        <FunFactSection />
+        <CountrySection />
+        <TeamSection />
+        <Testimonial />
+        <FaqSection />
+        <BlogSection />
+        <NewsLatter />
+        <ContactSection />
         <Footer />
         <Scrollbar />
       </div>
